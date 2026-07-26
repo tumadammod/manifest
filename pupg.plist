@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://cdn.tumadam.com/files/8d376a41-ff2d-482a-be69-2da5cfab5c8f.ipa</string>
+        </dict>
+          <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>vn.vng.pubgmobile.1</string>
+        <key>bundle-version</key>
+        <string>4.5</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>PUPG PRO</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
