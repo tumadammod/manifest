@@ -12,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://cdn.tumadam.com/files/8d376a41-ff2d-482a-be69-2da5cfab5c8f.ipa</string>
+          <string>https://dl.ipas.cc/ipas/rliimx.ipa</string>
         </dict>
           <dict>
           <key>kind</key>
@@ -26,7 +26,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>vn.vng.pubgmobile.1</string>
+        <string>vn.vng.pubgmobile.12</string>
         <key>bundle-version</key>
         <string>4.5</string>
         <key>kind</key>
